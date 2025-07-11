@@ -1,0 +1,25 @@
+# Core ML/NLP Libraries
+transformers
+torch
+accelerate
+datasets
+
+# Evaluation Metrics
+evaluate
+rouge_score
+sacrebleu
+
+# Data Handling & Visualization
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+
+# Optional: For logging and tracking experiments
+tensorboard
+
+
+#How to run:
+
+pip install -r requirements.txt
